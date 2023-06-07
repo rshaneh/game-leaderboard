@@ -21,3 +21,4 @@ The Worker is available at <https://game-leaderboard.jakew.workers.dev> if you f
 ## Development and Deployment
 
 For instructions on developing or deploying the project, look at the [Worker readme](./worker/README.md) and [client readme](./client/README.md) for details on setting up each.
+bla
